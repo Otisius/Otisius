@@ -1,9 +1,5 @@
-- The names @Otisius
-- I like making games
-- I know many things
-- I'm solo
-- Don't try to reach me unless i know u
-- Fun fact: I like to code
+i make stuff in c and c# and c++
+dm me if u wanna give me money
 
 <!---
 Otisius/Otisius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
